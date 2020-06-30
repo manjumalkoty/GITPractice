@@ -1,3 +1,6 @@
+
+checking whether changes are pushing fro mremote to local
+
 < check remote update>
 adding line to check stash functionality
 
@@ -9,6 +12,6 @@ Added comment in idea branch
 
 This is the first file
 
-Change1 – commit with message as “Change1 in File1”
+Change1 â€“ commit with message as â€œChange1 in File1â€
 
-Change2 – commit with message as “Change2 in File1”
+Change2 â€“ commit with message as â€œChange2 in File1â€
