@@ -1,3 +1,4 @@
+addded one idea to master branch
 This is the first file
 Change1 – commit with message as “Change1 in File1”
 
